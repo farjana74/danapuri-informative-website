@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+
+.contactForm-title {
+  font-weight: 700;
+  font-size: 36px;
+  font-family: 'Ubuntu', sans-serif;
+  margin-bottom: 20px !important;
+}
+
+
+
+
+.contactForm-description {
+  font-weight: 400;
+  font-size: 20px;
+  font-family: 'Ubuntu', sans-serif;
+  margin-bottom: 38px !important;
+}
+
+.contactForm-bg {
+  background-color: #E5E5E5;
+}
+
+.contactForm-button {
+  background-color: #2947A9;
+  border: none;
+  font-family: 'Ubuntu',
+    sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+
+}
+
+.form-control {
+  /* font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #A3AAC2; */
+}
+
+.input-area {
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #A3AAC2;
+  margin-bottom: 20px;
+}
+
+.form-select {
+  /* font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #A3AAC2; */
+}
+
+.contactForm-background {
+  width: 50% !important;
+}
+
+@media only screen and (max-width: 1180px) {
+  .contactForm-background {
+    width: 100% !important;
+
+
+  }
+
+
+}

@@ -1,0 +1,52 @@
+.bussiness-contact-container {
+    /* background: radial-gradient(483.9% 2719.65% at -49.5% -250%, #f7f7f7 17.55%, #dbffde59 27.56%, #f1f1f1 49.89%, #ffffff 56.53%, #e9e9e9 65.69%); */
+    background-image: url(../../../images/business-with-us.svg);
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: auto; */
+
+
+}
+
+.business-contact-title {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 110%;
+    text-align: center;
+    color: #1D2130;
+    margin-bottom: 1.5rem;
+}
+
+.business-contact-desc-txt {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    /* identical to box height, or 24px */
+    text-align: center;
+    color: #1D2130;
+    margin-bottom: 2rem;
+}
+
+.contact-us-btn {
+    background: #1D2130;
+    border-radius: 12px;
+    padding: 16px 40px;
+    border: 0;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    /* identical to box height, or 24px */
+
+    text-align: center;
+
+    /* White */
+
+    color: #FFFFFF;
+}

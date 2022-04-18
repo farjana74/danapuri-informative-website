@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300&family=Work+Sans&display=swap');
+
+.coreValues-title {
+    font-weight: 700;
+    font-size: 36px;
+    color: #292E3D;
+    align-items: center;
+    font-family: 'Ubuntu', sans-serif;
+    margin-bottom: 51px !important;
+}
+
+.coreValuesCard-title {
+    font-weight: 700;
+    font-size: 20px;
+    color: #3D445C;
+    font-family: 'Ubuntu', sans-serif;
+    margin-bottom: 18px;
+}
+
+.coreValuesCard-description {
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'Work Sans', sans-serif;
+    color: #858EAD;
+}
+
+.coreValuesCard-design {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.CoreValuesCard-height {
+    height: 100%;
+    border: 1.4px solid #E0E3EB;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.CoreValuesCard-padding {
+    padding-bottom: 40px !important;
+    padding-left: 20px !important;
+    padding-right: 18px !important;
+    padding-top: 21px;
+}

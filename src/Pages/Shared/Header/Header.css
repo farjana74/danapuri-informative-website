@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+.navigation-bar {
+
+  font-weight: 400 !important;
+  font-size: 16px !important;
+  color: #1D2130 !important;
+  font-family: 'Roboto',
+    sans-serif !important;
+}
+
+.navs-contact {
+  color: #F9995D;
+  font-weight: 700;
+  font-size: 18px;
+
+
+}

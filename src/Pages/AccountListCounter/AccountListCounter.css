@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+
+.counter-header {
+    font-weight: 600;
+    font-size: 40px;
+    color: #182F43;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 76px;
+    margin-bottom: 24px !important;
+}
+
+.counter-heigh {
+    /* margin-bottom: 231px; */
+}
+
+.counter-description {
+    font-weight: 400;
+    font-size: 24px;
+    color: #182F43;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 65px;
+}
+
+.project-counter {
+    font-weight: 600;
+    font-size: 54px;
+    color: #182F43;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.counter-description {
+    font-weight: 400;
+    font-size: 14px;
+    color: #182F43;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+.counter-section {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-column-gap: 7px;
+}
+
+.counter-background {
+
+    background-image: radial-gradient(483.9% 2719.65% at -49.5% -250%, #c3e4c8, white);
+    /* position: absolute; */
+    /* filter: blur(100px); */
+    /* width: 50% */
+    /* background-position: center; */
+    /* backdrop-filter: blur(5px); */
+    opacity: 1;
+
+
+}

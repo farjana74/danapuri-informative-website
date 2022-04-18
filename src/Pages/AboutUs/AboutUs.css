@@ -1,0 +1,67 @@
+.about-banner-holder{
+    background: radial-gradient(483.9% 2719.65% at -49.5% -250%, #f7f7f7 17.55%, #dbffde59 27.56%, #f1f1f1 49.89%, #ffffff 56.53%, #e9e9e9 65.69%);
+}
+
+.about-banner-header-title{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 110%;
+    /* identical to box height, or 62px */
+    text-align: center;
+    color: #1D2130;
+    margin-bottom: 1rem;
+}
+
+.about-banner-header-subtxt{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    /* or 27px */
+    
+    text-align: center;
+    color: #1D2130;
+    opacity: 0.87;
+    margin-bottom: 4rem;
+}
+
+.about-goal-vision-holder{
+    background: #F0F2FE;
+}
+
+.about-goal-vision-sub-title{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 120%;
+    background: linear-gradient(53.94deg, #373FFF 15.02%, #3ACAF8 82.83%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 1.5rem;
+    
+}
+
+.about-goal-vision-title{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 120%;
+    color: #1D2130;
+    margin-bottom: 1.5rem;
+}
+
+.about-goal-vision-desc-txt{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #6D6E76;
+    
+}

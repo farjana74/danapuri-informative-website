@@ -1,0 +1,46 @@
+.danapuri-network-title {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 120%;
+    text-align: center;
+    color: #1D2130;
+    margin-bottom: 1rem;
+}
+
+.danapuri-network-sub-desc {
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #1D2130;
+    opacity: 0.87;
+}
+
+.danapuri-client-profile {
+    padding-bottom: 5.25rem;
+}
+
+.danapuri-strategic-partners {
+    padding-bottom: 5.25rem;
+}
+
+.danapuri-public-relations {
+    padding-bottom: 5.25rem;
+}
+
+.danapuri-network-all-title {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 120%;
+    text-align: start;
+    color: #1D2130;
+    padding-bottom: 3rem;
+    margin: 0;
+}

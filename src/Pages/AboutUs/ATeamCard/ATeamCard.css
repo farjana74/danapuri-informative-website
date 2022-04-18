@@ -1,0 +1,80 @@
+.a-team-card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(24, 47, 67, 0.2);
+    border-radius: 6px;
+    background-clip: border-box;
+    border: 0;
+    border-radius: 0.25rem;
+    padding: 0;
+}
+
+.a-team-card-title {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    color: #182F43;
+    margin-bottom: 4px;
+}
+
+.a-team-card-degis {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.005em;
+    color: #182F43;
+    margin-bottom: 10px;
+}
+
+.a-team-card-bio {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.005em;
+    color: #707070;
+    padding-bottom: 2rem;
+    margin: 0;
+}
+
+.a-team-social-icon-holder {
+    background: #0F43F9;
+    padding: 1rem;
+    border-radius: 50%;
+    margin-right: 0.4375rem;
+}
+
+.a-team-social-icon-holder:hover {
+    background: #0f42f9c2;
+
+}
+
+.a-team-social-icon-holder {
+    background: #0F43F9;
+    padding: 1rem;
+    border-radius: 50%;
+    margin-right: 0.4375rem;
+}
+
+.a-team-social-icon {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
